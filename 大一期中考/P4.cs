@@ -24,9 +24,8 @@
 
         //解題思路
         //寫一個SquareIsWhite函數，判斷座標是否為白色
-        //再寫一個CheckTwoChessboards函數，輸入兩個座標，每個座標呼叫一次SquareIsWhite函數
-        //在再寫一個CheckTwoChessboards函數裡使用巢狀if結構，
-        //判斷第一次座標1是否為白，再判斷第二次座標2是否為白
+        //再寫一個CheckTwoChessboards函數，讓輸入兩個座標，每個座標呼叫一次SquareIsWhite函數
+        //判斷兩邊值是否相同
         //兩次相同輸出true，不同輸出false
 
         // 分析函數 傳回值bool布林變數 輸入形式變數string coordinate1, string coordinate2
