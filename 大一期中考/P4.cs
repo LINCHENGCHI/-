@@ -26,7 +26,7 @@
         //寫一個SquareIsWhite函數，判斷座標是否為白色
         //再寫一個CheckTwoChessboards函數，讓輸入兩個座標，每個座標呼叫一次SquareIsWhite函數
         //判斷兩邊值是否相同
-        //兩次相同輸出true，不同輸出false
+        //相同輸出true，不同輸出false
 
         // 分析函數 傳回值bool布林變數 輸入形式變數string coordinate1, string coordinate2
         static bool CheckTwoChessboards(string coordinate1, string coordinate2)
